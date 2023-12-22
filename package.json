@@ -1,5 +1,5 @@
 {
-  "name": "serve-handler",
+  "name": "@jybleau/serve-handler",
   "version": "6.1.5",
   "description": "The routing foundation of `serve` and static deployments on Now",
   "main": "src/index.js",
